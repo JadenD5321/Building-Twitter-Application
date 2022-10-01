@@ -2,7 +2,7 @@
 //  HomeTableViewController.swift
 //  Twitter
 //
-//  Created by Zihan Islam on 9/29/22.
+//  Created by Jaden Dodoo-Tawiah on 9/29/22.
 //  Copyright © 2022 Dan. All rights reserved.
 //
 
