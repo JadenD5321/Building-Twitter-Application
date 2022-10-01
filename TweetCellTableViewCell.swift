@@ -2,7 +2,8 @@
 //  TweetCellTableViewCell.swift
 //  Twitter
 //
-//  Created by Zihan Islam on 9/30/22.
+//  Created by Jaden Dodoo_Tawiah 
+on 9/30/22.
 //  Copyright © 2022 Dan. All rights reserved.
 //
 
