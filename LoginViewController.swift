@@ -44,7 +44,9 @@ class LoginViewController: UIViewController {
             print("Could not log in!")
         })
     }
-    
+    return application
+
+} 
     /*
     // MARK: - Navigation
 
